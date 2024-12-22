@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Date: Sun, 22 Dec 2024 14:06:22 GMT
+Server: Apache/2.4.54 (Unix) OpenSSL/1.1.1q PHP/8.1.10 mod_perl/2.0.12 Perl/v5.34.1
+Content-Length: 1939
+Connection: close
+Content-Type: text/html;charset=ISO-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /php</title>
+ </head>
+ <body>
+<h1>Index of /php</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Exam/">Exam/</a>                  </td><td align="right">2024-12-22 04:19  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Jeux/">Jeux/</a>                  </td><td align="right">2024-09-10 14:40  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Templete/">Templete/</a>              </td><td align="right">2024-09-19 14:06  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="cool-project-name/">cool-project-name/</a>     </td><td align="right">2024-12-02 17:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="javascript/">javascript/</a>            </td><td align="right">2024-10-12 20:25  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="php/">php/</a>                   </td><td align="right">2024-11-15 17:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

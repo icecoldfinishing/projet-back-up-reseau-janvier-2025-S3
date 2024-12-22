@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Date: Sun, 22 Dec 2024 14:06:23 GMT
+Server: Apache/2.4.54 (Unix) OpenSSL/1.1.1q PHP/8.1.10 mod_perl/2.0.12 Perl/v5.34.1
+Content-Length: 3324
+Connection: close
+Content-Type: text/html;charset=ISO-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /php/Exam</title>
+ </head>
+ <body>
+<h1>Index of /php/Exam</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/php/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="01%20Culture/">01 Culture/</a>            </td><td align="right">2023-12-14 23:18  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="02%20Athletes/">02 Athletes/</a>           </td><td align="right">2023-11-29 03:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="03%20%20Meteo/">03  Meteo/</a>             </td><td align="right">2023-12-16 04:11  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="04%20%20Grocery/">04  Grocery/</a>           </td><td align="right">2024-02-09 04:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="05%20Fc24%20(Copie)/">05 Fc24 (Copie)/</a>       </td><td align="right">2024-02-13 18:22  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="05%20Fc24%20(Copie%202)/">05 Fc24 (Copie 2)/</a>     </td><td align="right">2024-02-13 18:22  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="05%20Fc24/">05 Fc24/</a>               </td><td align="right">2024-02-13 18:22  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="06%20Mobile%20money/">06 Mobile money/</a>       </td><td align="right">2024-04-22 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="07%20Task%20manager/">07 Task manager/</a>       </td><td align="right">2024-07-14 18:58  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="08%20Animalerie/">08 Animalerie/</a>         </td><td align="right">2024-07-16 09:09  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="09%20hexashop%20(Copie)/">09 hexashop (Copie)/</a>   </td><td align="right">2024-11-26 18:55  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="09%20hexashop/">09 hexashop/</a>           </td><td align="right">2024-11-26 18:55  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

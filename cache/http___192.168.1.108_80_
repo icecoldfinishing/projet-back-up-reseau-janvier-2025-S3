@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Sun, 22 Dec 2024 14:06:20 GMT
+Server: Apache/2.4.54 (Unix) OpenSSL/1.1.1q PHP/8.1.10 mod_perl/2.0.12 Perl/v5.34.1
+Content-Length: 2387
+Connection: close
+Content-Type: text/html;charset=ISO-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /</title>
+ </head>
+ <body>
+<h1>Index of /</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="a.html">a.html</a>                 </td><td align="right">2024-11-28 12:34  </td><td align="right">216 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="applications.html">applications.html</a>      </td><td align="right">2022-06-15 19:07  </td><td align="right">3.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="bitnami.css">bitnami.css</a>            </td><td align="right">2022-06-15 19:07  </td><td align="right">177 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="dashboard/">dashboard/</a>             </td><td align="right">2022-10-01 10:11  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="favicon.ico">favicon.ico</a>            </td><td align="right">2007-05-11 15:40  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="iindex.php">iindex.php</a>             </td><td align="right">2024-12-18 23:52  </td><td align="right">254 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="img/">img/</a>                   </td><td align="right">2024-09-24 13:42  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="php/">php/</a>                   </td><td align="right">2024-12-12 18:18  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="webalizer/">webalizer/</a>             </td><td align="right">2024-09-24 13:42  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
